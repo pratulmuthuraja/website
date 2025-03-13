@@ -135,8 +135,8 @@ params:
     enable: true
     intro: "Hello! My name is"
     title: "Pratul."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    subtitle: "I love to build and automate infrastructure"
+    content: "I'm a passionate Web Developer. I strive to design scalable, efficient, and secure systems. My fascination with infrastructure and automation helps me ensure everything runs smoothly during and after deployment."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -153,9 +153,8 @@ params:
           url: "https://github.com/pratulmuthuraja"
         - icon: fab fa-linkedin
           url: "https://www.linkedin.com/in/pratulmuthuraja/"
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: fab fa-medium
+          url: "https://medium.com/@pratulmuthuraja"
 
   # About
   about:
