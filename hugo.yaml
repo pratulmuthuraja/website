@@ -150,9 +150,9 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.com/pratulmuthuraja
-        - icon: fab fa-x-twitter
-          url: https://example.com
+          url: "https://github.com/pratulmuthuraja"
+        - icon: fab fa-linkedin
+          url: "https://www.linkedin.com/in/pratulmuthuraja/"
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
@@ -160,7 +160,7 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "Get to know me"
     image: "/images/me.png"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
@@ -363,7 +363,7 @@ params:
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     btnName: Mail me
-    btnLink: mailto:gurusabarisha@gmail.com
+    btnLink: mailto:pratulmuthuraja@gmail.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
