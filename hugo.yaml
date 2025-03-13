@@ -169,12 +169,18 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
+        - "Go"
+        - "Python"
         - "JavaScript"
         - "React"
         - "Node"
-        - "Express"
+        - "Hugo"
+        - "Docker"
+        - "Kubernetes"
+        - "Helm"
+        - "Gatsby"
+        - "Jenkins"
+        - "AWS"
 
   # Experience
   experience:
