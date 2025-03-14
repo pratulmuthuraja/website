@@ -137,7 +137,7 @@ params:
     title: "Pratul."
     subtitle: "I love to build and automate infrastructure"
     content: "I'm a passionate Web Developer. I strive to design scalable, efficient, and secure systems. My fascination with infrastructure and automation helps me ensure everything runs smoothly during and after deployment."
-    image: /images/hero.svg
+    image: /images/hero.jpg
     bottomImage:
       enable: true
     roundImage: true # Make hero image circular | default false
@@ -160,7 +160,7 @@ params:
   about:
     enable: true
     title: "Get to know me"
-    image: "/images/me.png"
+    image: "/images/K4992-Pratul.jpeg"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
 
