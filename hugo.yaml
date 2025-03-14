@@ -33,13 +33,13 @@ Menus:
     - identifier: blog
       name: Blog
       title: Blog posts
-      url: /blogs
+      url: https://medium.com/@pratulmuthuraja
       weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
+    # - identifier: gallery
+      # name: Gallery
+      # title: Blog posts
+      # url: /gallery
+      # weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -127,7 +127,7 @@ params:
       disableExperience: false
       disableEducation: false
       disableProjects: false
-      disableAchievements: false
+      disableAchievements: true 
       disableContact: false
 
   # Hero
@@ -292,7 +292,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false 
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
