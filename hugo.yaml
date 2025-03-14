@@ -379,14 +379,13 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false 
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/pratulmuthuraja
+      linkedin: https://linkedin.com/in/pratulmuthuraja
+      # twitter: https://x.com/pratulmuthuraja
+      # instagram: https://www.instagram.com/pratulmuthuraja/
 
   # List pages like blogs and posts
   listPages:
