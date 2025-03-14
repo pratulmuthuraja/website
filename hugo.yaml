@@ -159,12 +159,12 @@ params:
   # About
   about:
     enable: true
-    title: "Get to know me"
+    title: "About Me"
     image: "/images/K4992-Pratul.jpeg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      I am a software developer with a passion for infrastructure and automation. I have a background in computer science and business, and I have a strong interest in systems, administration, and observability. I believe in giving back to the community, so I am also an active opensource contributor. I am currently looking for new opportunities to apply skillset in Software Engineering/DevOps/SRE roles.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am also working on my Certified Kubernetes Application Developer (CKAD) certification. 
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
