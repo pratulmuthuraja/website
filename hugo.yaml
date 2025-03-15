@@ -133,7 +133,7 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hello! My name is"
+    intro: "Hello! 👋🏽 My name is"
     title: "Pratul."
     subtitle: "I love to build and automate infrastructure"
     content: "I'm a passionate Web Developer. I strive to design scalable, efficient, and secure systems. My fascination with infrastructure and automation helps me ensure everything runs smoothly during and after deployment."
